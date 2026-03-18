@@ -16,6 +16,48 @@ A full-stack web application for filing, tracking, and managing police complaint
 | Styling | Pure CSS with CSS Variables (no UI framework) |
 
 ---
+## 📸 Screenshots
+
+### 🏠 Landing Page
+
+Modern landing interface showcasing the platform’s core features — report, track, and resolve incidents efficiently.
+![Landing](screenshots/landing.jpg)
+
+---
+
+### 🔐 Login Page
+
+Secure authentication system supporting role-based access for citizens, officers, and administrators.
+![Login](screenshots/login.jpg)
+
+---
+
+### 👤 Citizen Dashboard
+
+User dashboard for tracking submitted complaints, viewing status updates, and managing reports.
+![Citizen Dashboard](screenshots/citizen_dashboard.jpg)
+
+---
+
+### 📝 Submit Complaint
+
+Complaint submission with live GPS-based location detection and automatic assignment to the nearest police station.
+![Submit Complaint](screenshots/submit_complaint.jpg)
+
+---
+
+### 👮 Role-Based Case Management
+
+Integrated admin and officer interface demonstrating case assignment, investigation tracking, and detailed complaint handling.
+![Case Management](screenshots/role_based_case_management.jpg)
+
+---
+
+### 🗺️ Map View
+
+Interactive map visualization displaying real-time complaint locations and police station coverage.
+![Map View](screenshots/map_view.jpg)
+
 
 ## 📁 Project Structure
 
